@@ -25,6 +25,11 @@ h3{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+h3:hover {
+    color: #1BA1F1;
+
+}
+
 .selected{
     color: #1BA1F1;
 }
@@ -40,5 +45,12 @@ button{
     border-radius: 25px;
     font-weight: bold;
     margin-top: 15px;
+    cursor:pointer;
 }
+
+button:hover{
+    background-color: #2fa9f0;
+}
+
+
 
